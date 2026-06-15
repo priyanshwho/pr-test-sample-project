@@ -4,6 +4,7 @@ const about = () => {
   return (
     <div>
 new about tell me how is it
+is it working?
     </div>
   )
 }
