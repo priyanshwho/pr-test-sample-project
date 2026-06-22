@@ -5,6 +5,7 @@ const about = () => {
     <div>
 new about tell me how is it
 is it working?
+TESTING AFTER DEPLOEMENT
     </div>
   )
 }
