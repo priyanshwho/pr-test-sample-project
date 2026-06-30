@@ -1,8 +1,7 @@
-import React from 'react'
 
 const feature = () => {
   return (
-    <div className='text-white bg-black h-screen w-full'>feature</div>
+    <div className='text-white bg-black h-screen w-full justify-center items-center'>feature</div>
   )
 }
 
